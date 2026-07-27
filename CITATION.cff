@@ -4,14 +4,14 @@ title: "Mines Vivantes : transformer les friches minieres en infrastructures eco
 abstract: "Travaux ouverts sur la reconversion ecologique des anciens sites miniers pollues : traitement passif du drainage minier acide, bioremediation microbienne et vegetale, restauration de la biodiversite, feuille de route et proposition de cadre juridique."
 type: dataset
 authors:
-  - family-names: Papillon
+  - family-names: Perrichon
     given-names: Elodie
 license: CC-BY-4.0
-doi: "10.5281/zenodo.21632424"
+doi: "10.5281/zenodo.21632423"
 repository-code: "https://github.com/ElodiePapillon/Mines-Vivantes"
 url: "https://github.com/ElodiePapillon/Mines-Vivantes"
-version: "1.0.1"
-date-released: "2026-07-27"
+version: "1.0.2"
+date-released: "2026-07-28"
 keywords:
   - friches minieres
   - bioremediation
