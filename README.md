@@ -1,7 +1,10 @@
-# Mines-Vivantes
-Transformer les anciens sites miniers pollués en infrastructures écologiques actives, capables de dépolluer l’eau et restaurer la biodiversité 
 # Mines Vivantes
-Transformer les anciens sites miniers pollués en infrastructures écologiques actives, capables de dépolluer l’eau, restaurer la biodiversité et générer des bénéfices environnementaux durables pour les territoires.
+
+Transformer les anciens sites miniers pollués en infrastructures écologiques actives, capables de dépolluer l'eau, restaurer la biodiversité et générer des bénéfices environnementaux durables pour les territoires.
+
+> **English summary** — Open, freely reusable working papers on turning abandoned, polluted mining sites into **active ecological infrastructure**: passive treatment of acid mine drainage, microbial and plant-based bioremediation, and biodiversity restoration. Includes a project rationale, a roadmap, an ecosystem diagram and a draft legal proposal. Licensed **CC BY 4.0** — reuse and adaptation encouraged, with attribution.
+
+> ℹ️ **Statut de ces travaux** — Travail indépendant de synthèse et de proposition, appuyé sur l'ingénierie écologique, la biorémédiation et l'écologie de la restauration. Les dispositifs décrits sont des **principes généraux** : toute application sur un site réel suppose un diagnostic de pollution spécifique et une étude de faisabilité conduite par des professionnels.
 
 ## 🌍 Vision du projet
 Mines Vivantes propose une nouvelle approche de la gestion des friches minières : ne plus se limiter à la sécurisation ou au confinement, mais transformer ces sites en **écosystèmes fonctionnels**, autonomes et évolutifs.
@@ -130,3 +133,8 @@ elodie.perrichon@yahoo.com
 ## 📄 Licence
 À définir (MIT, CC-BY, ou autre selon ton choix).
 
+## Citer et réutiliser ces travaux
+
+Diffusés sous licence [CC BY 4.0](LICENSE) : reprise, adaptation et republication libres, y compris à des fins commerciales, sous réserve d'en citer l'origine. Un fichier [CITATION.cff](CITATION.cff) est fourni pour la citation automatique.
+
+> Papillon, É. (2026). *Mines Vivantes — transformer les friches minières en infrastructures écologiques*. Dépôt GitHub. https://github.com/ElodiePapillon/Mines-Vivantes
