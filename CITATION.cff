@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "Si vous utilisez ces travaux, merci de les citer comme suit."
+title: "Mines Vivantes : transformer les friches minieres en infrastructures ecologiques actives"
+abstract: "Travaux ouverts sur la reconversion ecologique des anciens sites miniers pollues : traitement passif du drainage minier acide, bioremediation microbienne et vegetale, restauration de la biodiversite, feuille de route et proposition de cadre juridique."
+type: dataset
+authors:
+  - family-names: Papillon
+    given-names: Elodie
+license: CC-BY-4.0
+repository-code: "https://github.com/ElodiePapillon/Mines-Vivantes"
+url: "https://github.com/ElodiePapillon/Mines-Vivantes"
+version: "1.0.0"
+date-released: "2026-07-27"
+keywords:
+  - friches minieres
+  - bioremediation
+  - ingenierie ecologique
+  - drainage minier acide
+  - biodiversite
+  - politique publique
