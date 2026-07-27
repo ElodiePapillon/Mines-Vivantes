@@ -1,5 +1,7 @@
 # Mines Vivantes
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21632424.svg)](https://doi.org/10.5281/zenodo.21632424)
+
 Transformer les anciens sites miniers pollués en infrastructures écologiques actives, capables de dépolluer l'eau, restaurer la biodiversité et générer des bénéfices environnementaux durables pour les territoires.
 
 > **English summary** — Open, freely reusable working papers on turning abandoned, polluted mining sites into **active ecological infrastructure**: passive treatment of acid mine drainage, microbial and plant-based bioremediation, and biodiversity restoration. Includes a project rationale, a roadmap, an ecosystem diagram and a draft legal proposal. Licensed **CC BY 4.0** — reuse and adaptation encouraged, with attribution.
@@ -131,10 +133,12 @@ elodie.perrichon@yahoo.com
 07 54 19 60 75
 
 ## 📄 Licence
-À définir (MIT, CC-BY, ou autre selon ton choix).
+Creative Commons Attribution 4.0 International (CC BY 4.0) — voir le fichier [LICENSE](LICENSE).
 
 ## Citer et réutiliser ces travaux
 
+**DOI (toutes versions)** : [10.5281/zenodo.21632424](https://doi.org/10.5281/zenodo.21632424) — archivage permanent sur Zenodo (CERN).
+
 Diffusés sous licence [CC BY 4.0](LICENSE) : reprise, adaptation et republication libres, y compris à des fins commerciales, sous réserve d'en citer l'origine. Un fichier [CITATION.cff](CITATION.cff) est fourni pour la citation automatique.
 
-> Papillon, É. (2026). *Mines Vivantes — transformer les friches minières en infrastructures écologiques*. Dépôt GitHub. https://github.com/ElodiePapillon/Mines-Vivantes
+> Papillon, É. (2026). *Mines Vivantes — transformer les friches minières en infrastructures écologiques*. Zenodo. https://doi.org/10.5281/zenodo.21632424
