@@ -7,9 +7,10 @@ authors:
   - family-names: Papillon
     given-names: Elodie
 license: CC-BY-4.0
+doi: "10.5281/zenodo.21632424"
 repository-code: "https://github.com/ElodiePapillon/Mines-Vivantes"
 url: "https://github.com/ElodiePapillon/Mines-Vivantes"
-version: "1.0.0"
+version: "1.0.1"
 date-released: "2026-07-27"
 keywords:
   - friches minieres
